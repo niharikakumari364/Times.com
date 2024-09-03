@@ -1,1 +1,1 @@
-# Times.com                              Application which will return me the latest 6 stories on Time.com's
+Application which will return me the latest 6 stories on Time.com's
